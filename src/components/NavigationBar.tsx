@@ -27,7 +27,7 @@ export function NavigationBar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold">
-              Sopact Sense
+              Sense
             </Link>
             <div className="ml-10 flex items-baseline space-x-4">
               {navigation.map((item) => (
